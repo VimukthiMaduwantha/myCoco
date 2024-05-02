@@ -260,7 +260,7 @@ function PlantDetailmanagementCompt({ dialogOpen, setDialogOpen, setUpdateID, up
                                                 >
                                                     <MenuItem value='0'>Select a Status</MenuItem>
                                                     <MenuItem value='Good'>Good</MenuItem>
-                                                    <MenuItem value='Disease'>Disease</MenuItem>
+                                                    <MenuItem value='Browning Disease'>Browning Disease</MenuItem>
                                                     <MenuItem value='Media Contimination'>Media Contimination</MenuItem>
                                                 </TextField>
                                             </Grid>
